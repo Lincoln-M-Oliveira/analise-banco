@@ -61,7 +61,7 @@ Essas descobertas podem orientar estratégias de marketing mais eficazes, reduzi
 
 ## Exemplos de Gráficos
 
-![Distribuição por Profissão](imagens/distribuicao_profissao.png)  
+![Distribuição por Profissão](imagens/sucesso_profissao.png)  
 ![Taxa de Sucesso por Faixa Etária](imagens/sucesso_idade.png)
 
 ---
