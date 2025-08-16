@@ -78,3 +78,6 @@ Essas descobertas podem orientar estratégias de marketing mais eficazes, reduzi
    pip install pandas matplotlib seaborn
    
 3. Abrir o notebook
+
+
+Feito por: Lincoln M. Oliveira
